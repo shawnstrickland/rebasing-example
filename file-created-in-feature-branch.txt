@@ -5,3 +5,5 @@ Another commit change on that file
 yet another commit, let's clean this up
 
 something else
+
+And another commit, this time good
