@@ -1,0 +1,7 @@
+this is a file I created in my feature branch
+
+Another commit change on that file
+
+yet another commit, let's clean this up
+
+something else
